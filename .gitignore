@@ -174,3 +174,7 @@ Source/Databases/
 
 *.clef
 /src/.idea/.idea.Blockcore.Dns/.idea
+
+#Angular
+.angular
+dist
